@@ -1,1 +1,1 @@
-Simple teaser site for new Zinchro Watch.
+Simple teaser site for new Zinchro Watch. 
